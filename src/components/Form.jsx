@@ -13,7 +13,7 @@ function Form() {
 
     const inputProps = {
         step: 1,
-        min: 0
+        min: 1
     }
 
     function submitForm(event) {
